@@ -14,4 +14,5 @@ namespace stats {
   constexpr ::std::ptrdiff_t food = 0x72C750;
   constexpr ::std::ptrdiff_t friends = 0x72C748;
   constexpr ::std::ptrdiff_t MaxForce = 0x731CF8;
+  constexpr ::std::ptrdiff_t Minlogicalclim = 0x731CD4;
 }
