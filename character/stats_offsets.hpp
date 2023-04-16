@@ -13,5 +13,5 @@ namespace stats {
   constexpr ::std::ptrdiff_t happy = 0x72C768;
   constexpr ::std::ptrdiff_t food = 0x72C750;
   constexpr ::std::ptrdiff_t friends = 0x72C748;
-  constexpr ::std::ptrdiff_t happy = 0x;
+  constexpr ::std::ptrdiff_t  = 0x;
 }
