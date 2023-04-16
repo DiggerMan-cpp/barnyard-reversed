@@ -1,7 +1,7 @@
 #pragma once
 #include <cstdint>
 namespace stats {
-  constexpr ::std::ptrdiff_t Max_Health = 0x731CC8;
+  constexpr ::std::ptrdiff_t Max_Speed = 0x731CC8;
   constexpr ::std::ptrdiff_t Max_Items = 0x731CEC;
   constexpr ::std::ptrdiff_t milkmaxammo = 0x71E370;
   constexpr ::std::ptrdiff_t milkfiredelay = 0x71E37C;
